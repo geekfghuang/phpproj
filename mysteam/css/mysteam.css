@@ -1,0 +1,501 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0px;
+}
+#box1
+{
+	width:100%;
+	height:100px;
+	border:solid 0px ;
+}
+#box2
+{ 
+    margin:0px auto;
+	width:1366px;
+	height:100px;
+	background-color:#171a21;
+}
+#container
+{
+	margin:0px auto;
+	width:1366px;
+	height:1000px;
+	border:solid 0px;
+	background-color:#1b2838;
+	
+}
+#box2 a
+{
+	margin-left:40px;
+	text-decoration:none;
+	color:#FFFFFF;
+	opacity:0.6;
+	cursor:pointer;
+}
+#box2 a:hover
+{
+	opacity:1;
+}
+#box3
+{
+	margin-top:-50px;
+	margin-left:340px;
+}
+#yejiao
+{
+	margin:0px auto;
+	width:1366px;
+	height:120px;
+	background-color:#101923;
+	border:solid 0px;
+}
+#box4
+{
+	margin-left:300px;
+	margin-top:-40px;
+	border:solid 0px;
+	width:800px;
+	height:40px;
+	background-color:#101923;
+}
+#box5
+{
+	width:900px;
+	height:45px;
+	background-color:#101923;
+	border:solid 0px;
+	margin-top:10px;
+	margin-left:300px;
+}
+#box5 a
+{
+	text-decoration:none;
+	color:#D8D1D2;
+	font-size:20px;
+}
+#box5 a:hover
+{
+	color:#FFFFFF;
+}
+#box6
+{
+	margin:0px auto;
+	width:1366px;
+	height:200px;
+	border:solid 0px;
+	background-color:#000000;
+}
+#box6_img
+{
+	margin-left:630px; 
+	margin-top:10px; 
+	opacity:0.8;
+}
+#box6_img:hover
+{
+	opacity:1;
+}
+#box7
+{
+	margin-left:350px;
+	margin-top:0px;
+	width:1000px;
+	height:50px;
+	border:solid 0px;
+	background-color:#000000;
+}
+#box8
+{
+	width:500px;
+	height:50px;
+	border:solid 0px;
+	margin-left:570px;
+	margin-top:20px;
+}
+#box8 a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#box8 a:hover
+{
+	color:#67c1f5;
+}
+#box9
+{
+	width:200px;
+	height:19px;
+	background-color:#171a21;
+	border:solid 0px;
+	margin-left:1150px;
+	margin-top:-50px;
+}
+#box10
+{
+	width:200px;
+	height:50px;
+	margin-left:1160px;
+    margin-top:20px;
+	border:solid 0px;
+	background-color:#171a21;
+}
+#box0
+{
+	width:50px;
+	height:50px;
+	border:solid 0px #171a21;
+	background-color:#171a21;
+	margin-left:1095px;
+	margin-top:-65px;
+}
+#box11
+{
+	width:900px;
+	height:40px;
+	border:solid 1px ;
+	margin-left:230px;
+	background-color:#3c6a95;
+}
+
+#search
+{
+	height:30px;
+	border:solid 0px;
+	width:200px; 
+	background-color:#5095c3;
+}
+#box12
+{
+	width:900px;
+	height:250px;
+	background-color:#141e2a;
+	margin-left:200px;
+}
+#box14
+{
+	width:270px;
+	height:20px;
+	border:solid 0px;
+	margin-left:200px;
+	margin-top:50px;
+}
+#box14 a
+{
+	background-color:#1e2d42;
+	color:#4e96be;
+	padding:8px 10px 2px 10px;
+	border-top-left-radius:4px;
+	border-top-right-radius:4px;
+	box-shadow:5px 5px 5px #000000;
+}
+#box14 a:hover
+{
+	cursor:pointer;
+}
+#box15
+{
+	margin-left:200px;
+	margin-top:10px;
+	height:430px;
+	width:450px;
+	font-weight:700; 
+	color:#c8d5e1;
+	background-color:#141e2a;
+	overflow-y:auto;
+}
+#box16
+{
+	margin-left:690px;
+	margin-top:-430px;
+	height:430px;
+	width:410px;
+	font-weight:700; 
+	color:#c8d5e1;
+	background-color:#141e2a;
+}
+#box16span
+{
+	font-size:28px;
+	position:relative;
+	top:160px;
+}
+
+.p_headimg
+{
+	width:200px;
+	height:200px;
+	margin-left:23px;
+	margin-top:23px;
+}
+.p_username
+{
+	margin-top:-180px;
+	margin-left:300px;
+	color:#c9d5e1;
+	font-weight:600;
+}
+.p_age
+{
+	margin-left:300px;
+	margin-top:40px;
+	color:#c9d5e1;
+	font-weight:600;
+}
+.p_email
+{
+	margin-left:300px;
+	margin-top:40px;
+	color:#c9d5e1;
+	font-weight:600;
+}
+.p_phone
+{
+	margin-left:650px;
+	margin-top:-130px;
+	color:#c9d5e1;
+	font-weight:600;
+}
+.p_address
+{
+	margin-left:300px;
+	margin-top:30px;
+	color:#c9d5e1;
+}
+.p_anniu
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	margin-top:70px;
+	margin-left:700px;
+	border-radius:3px;
+	color:#66c1f5;
+}
+.p_zi
+{
+	position:relative;
+	top:10px;
+	left:25px;
+}
+.p_anniu:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.p_anniu2
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	margin-top:-40px;
+	margin-left:300px;
+	border-radius:3px;
+	color:#66c1f5;
+}
+.p_yuanwangdan
+{
+	position:relative;
+	top:10px;
+	left:35px;
+}
+.p_anniu2:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.p_anniu3
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	margin-top:-40px;
+	margin-left:500px;
+	border-radius:3px;
+	color:#66c1f5;
+}
+.p_guanzhu
+{
+	position:relative;
+	top:10px;
+	left:45px;
+}
+.p_anniu3:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.p_lastest_buy_box
+{
+	width:200px;
+	height:200px;
+	float:left;
+	margin-top:7px;
+	margin-left:7px;
+	border: solid 3px #141e2a;
+	
+}
+.p_lastest_buy_box:hover
+{
+	border: solid 3px #2F5C6C;
+	cursor:pointer;	
+}
+.p_lastest_buy_pic
+{
+	width:200px;
+	height:200px;
+}
+.mysteam_lastest_buy_file_goodsname
+{
+	position:relative;
+	top:50px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_price
+{
+	position:relative;
+	top:80px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_size
+{
+	position:relative;
+	top:110px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_description
+{
+	width:300px;
+	word-wrap:break-word;
+	position:relative;
+	top:140px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_number
+{
+	position:relative;
+	top:170px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_time
+{
+	position:relative;
+	top:210px;
+	left:30px;
+}
+.mysteam_lastest_buy_file_rest
+{
+	position:relative;
+	top:210px;
+	left:30px;
+
+}
+.mysteam_lastest_buy_file_box
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	border-radius:3px;
+	color:#66c1f5;
+	position:relative;
+	top:230px;
+	left:220px;
+}
+.mysteam_lastest_buy_file_box_zi
+{
+	position:relative;
+	top:10px;
+	left:25px;
+}
+.mysteam_lastest_buy_file_box:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.mysteam_lastest_sell
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	border-radius:3px;
+	color:#66c1f5;
+	position:relative;
+	top:190px;
+	left:40px;
+}
+.mysteam_lastest_sell_zi
+{
+	position:relative;
+	top:10px;
+	left:35px;
+}
+.mysteam_lastest_sell:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.mysteam_lastest_sell2
+{
+	width:150px;
+	height:40px;
+	background-color:#243e54;
+	border-radius:3px;
+	color:#66c1f5;
+	position:relative;
+	top:80px;
+	left:150px;
+}
+.mysteam_lastest_sell2:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+#box17
+{
+	width:200px;
+	height:100px;
+	border:solid 1px #000000;
+	margin-left:1130px;
+	margin-top:-770px;
+	background-color:#141e2a;
+}
+#box18
+{
+	width:80px;
+	height:34px;
+	background-color:#243e54;
+	margin-top:50px;
+	margin-left:100px;
+	border-radius:3px;
+	color:#66c1f5;
+	text-align:center;
+}
+#box18_zi
+{
+	position:relative;
+	top:7px;
+}
+#box18:hover
+{
+	cursor:pointer;
+	background-color:#62baeb;
+	color:#FFFFFF;
+}
+.box17_ajax
+{
+	margin-top:-70px;
+	color:#FF0004;
+	margin-left:20px;
+}
+.sell_goods_signal_span
+{
+	font-size:30px;
+	margin-top:120px;
+}

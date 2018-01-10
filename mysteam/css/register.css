@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin:0px;
+}
+#box1
+{
+	width:100%;
+	height:100px;
+	border:solid 0px ;
+}
+#box2
+{ 
+    margin:0px auto;
+	width:1366px;
+	height:100px;
+	background-color:#171a21;
+}
+#container
+{
+	margin:0px auto;
+	width:1366px;
+	height:800px;
+	border:solid 0px;
+	background-color:#1b2838;
+}
+#box2 a
+{
+	margin-left:40px;
+	text-decoration:none;
+	color:#FFFFFF;
+	opacity:0.6;
+}
+#box3
+{
+	margin-top:-50px;
+	margin-left:340px;
+}
+#yejiao
+{
+	margin:0px auto;
+	width:1366px;
+	height:120px;
+	background-color:#101923;
+	border:solid 0px;
+}
+#box4
+{
+	margin-left:300px;
+	margin-top:-40px;
+	border:solid 0px;
+	width:800px;
+	height:40px;
+	background-color:#101923;
+}
+#box5
+{
+	width:900px;
+	height:50px;
+	background-color:#101923;
+	border:solid 0px;
+	margin-top:10px;
+	margin-left:300px;
+}
+#box5 a
+{
+	text-decoration:none;
+	color:#D8D1D2;
+	font-size:20px;
+}
+#box6
+{
+	margin:0px auto;
+	width:1366px;
+	height:200px;
+	border:solid 0px;
+	background-color:#000000;
+}
+#box7
+{
+	margin-left:350px;
+	margin-top:0px;
+	width:1000px;
+	height:50px;
+	border:solid 0px;
+	background-color:#000000;
+}
+#box8
+{
+	width:500px;
+	height:50px;
+	border:solid 0px;
+	margin-left:570px;
+	margin-top:20px;
+}
+#box8 a
+{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#box9
+{
+	width:200px;
+	height:19px;
+	background-color:#171a21;
+	border:solid 0px;
+	margin-left:1150px;
+	margin-top:-50px;
+}
+#box10
+{
+	width:200px;
+	height:50px;
+	margin-left:1160px;
+    margin-top:20px;
+	border:solid 0px;
+	background-color:#171a21;
+}
+#box0
+{
+	width:50px;
+	height:50px;
+	border:solid 0px #171a21;
+	background-color:#171a21;
+	margin-left:1095px;
+	margin-top:-65px;
+}
+#box11
+{
+	width:800px;
+	height:700px;
+	border:solid 0px;
+	margin-left:170px;
+	background-color:#1b2838;
+}
+#box12
+{
+	width:700px;
+	height:300px;
+	border:solid 1px #CCC4C4;
+	overflow-y:scroll;
+	word-wrap:break-word;
+	background-color:#132834;
+	border-radius:5px;
+}
+#headimg_put
+{
+	width:280px;
+	height:280px;
+	border:solid 1px #ACACAC;
+	margin-left:390px;
+	margin-top:-690px;
+}
+#headimg_span
+{
+	margin-left:100px;
+	color:#FFFFFF; 
+	opacity:0.8;
+}
+#headimg_input
+{
+	margin-left:10px;
+	margin-top:20px;
+	color:#FFFFFF;
+	 opacity:0.8;
+}
+#headimg_see
+{
+	width:180px;
+	height:180px;
+	border:solid 1px #ACACAC;
+	margin-top:20px;
+	margin-left:47px;
+}
+#headimg_see_img
+{
+	width:180px;
+	height:180px;
+}
